@@ -16,7 +16,7 @@ Bu süreçte: ürün isimleri ve ürün kodları yazılı bir excel dosyasıdan 
 - Ürünün sitede olup olmadığı ve sonrasında farklı kategorilerde ilgili ürünününün olup olmadığı kontrol edilir.
 - ürün yok ise fiyat sıfır olarak dataset'e yazılır. Farklı kategoriler var ise ürün adı ile eşleşen kategori seçilir.
 - Bulunan ürün fiyatları yeni bir dataset'e kaydedilir ve en düşük fiyat bulunur. Dateset'e en uygun fiyat yazılır ve süreç sonlanır.
-- 
+
 ![screencapture-cloud-robusta-ai-8443-modeler-2022-08-01-09_06_18](https://user-images.githubusercontent.com/20983261/182716322-17f214cd-c131-417d-9ae1-e6c03deedc43.png)
 
 ## Booking.com üzerinde en iyi bileti bulma
