@@ -34,7 +34,7 @@ Bu süreçte: ürün isimleri ve ürün kodları yazılı bir excel dosyasıdan 
 
 ![screencapture-cloud-robusta-ai-8443-modeler-2022-08-01-09_07_06](https://user-images.githubusercontent.com/20983261/182720040-b9ad9e21-8006-4853-bded-37d020417995.png)
 
-- Rota  ve tarig bilgisi çekilir ve site üzerinden arama yapılır.
+- Rota  ve tarih bilgisi çekilir ve site üzerinden arama yapılır.
 - Uygun XPath'ler ile best price, cheapest price opsiyonları tespit edilir. Bu aşamada uygun uçuş olup olmadığı da kontrol edilir.
 - Best price tespit edildikten sonra site içersindeki paylaş aksiyonu ile ilgili fiyat bilgisi paylaşılır.
 - Ek olarak excel'e yazılan her bir rotaya ait best price bilgisi mail ile müşteriye iletilir.
